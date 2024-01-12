@@ -1,6 +1,6 @@
 import express from "express";
 import { config } from "dotenv";
-import { pg } from "pg";
+import pg from "pg";
 
 config()
 
